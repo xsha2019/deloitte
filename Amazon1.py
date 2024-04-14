@@ -22,7 +22,7 @@ file_paths = {
 
 
 # Title of the app
-st.title('Random Question Selector')
+st.title('Amazon Data Scientist Interview Questions Selector')
 
 # Allow the user to select a category
 category = st.selectbox('Choose a category:', list(file_paths.keys()))
