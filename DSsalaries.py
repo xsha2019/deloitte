@@ -15,7 +15,7 @@ st.title('Data Science Salary Exploration')
 # Load the data
 #@st.cache
 def load_data():
-    data = pd.read_csv('/Users/xiqingsha/Dropbox (ASU)/Xiqing Sha’s files/Home/CIS 412 2024 Spring/chatgpt topic/Data_Science_Salaries.csv')
+    data = pd.read_csv('Data_Science_Salaries.csv')
     return data
 
 
