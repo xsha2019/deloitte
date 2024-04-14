@@ -10,19 +10,19 @@ import random
 
 # Define the path to the CSV files (adapt these paths according to your actual file locations)
 file_paths = {
-    'Deloitte General Background & Skills': '/Users/xiqingsha/Dropbox (ASU)/Xiqing Sha’s files/Home/CIS 412 2024 Spring/Streamlit/Deloitte General Background & Skills.csv',
-    'Deloitte Problem-Solving & Initiative': '/Users/xiqingsha/Dropbox (ASU)/Xiqing Sha’s files/Home/CIS 412 2024 Spring/Streamlit/Deloitte Problem-Solving & Initiative.csv',
-    'Deloitte Teamwork & Communication': '/Users/xiqingsha/Dropbox (ASU)/Xiqing Sha’s files/Home/CIS 412 2024 Spring/Streamlit/Deloitte Teamwork & Communication.csv',
-    'Deloitte Deloitte Specific': '/Users/xiqingsha/Dropbox (ASU)/Xiqing Sha’s files/Home/CIS 412 2024 Spring/Streamlit/Deloitte Deloitte Specific.csv',
-    'Deloitte Statistics & Probability':'/Users/xiqingsha/Dropbox (ASU)/Xiqing Sha’s files/Home/CIS 412 2024 Spring/Streamlit/Deloitte Statistics & Probability.csv',
-    'Deloitte Statistics & Probability': '/Users/xiqingsha/Dropbox (ASU)/Xiqing Sha’s files/Home/CIS 412 2024 Spring/Streamlit/Deloitte Statistics & Probability.csv',
-    'Deloitte Machine Learning': '/Users/xiqingsha/Dropbox (ASU)/Xiqing Sha’s files/Home/CIS 412 2024 Spring/Streamlit/Deloitte Machine Learning.csv',
-    'Deloitte Data Wrangling & Programming': '/Users/xiqingsha/Dropbox (ASU)/Xiqing Sha’s files/Home/CIS 412 2024 Spring/Streamlit/Deloitte Data Wrangling & Programming.csv',
-    'Deloitte Scenario-Based Questions': '/Users/xiqingsha/Dropbox (ASU)/Xiqing Sha’s files/Home/CIS 412 2024 Spring/Streamlit/Deloitte Scenario-Based Questions.csv',
-    'Deloitte Deep Learning & Natural Language': '/Users/xiqingsha/Dropbox (ASU)/Xiqing Sha’s files/Home/CIS 412 2024 Spring/Streamlit/Deloitte Deep Learning & Natural Language.csv',
-    'Deloitte Big Data & Cloud Computing': '/Users/xiqingsha/Dropbox (ASU)/Xiqing Sha’s files/Home/CIS 412 2024 Spring/Streamlit/Deloitte Big Data & Cloud Computing.csv',
-    'Deloitte Time Series Analysis & Optimization': '/Users/xiqingsha/Dropbox (ASU)/Xiqing Sha’s files/Home/CIS 412 2024 Spring/Streamlit/Deloitte Time Series Analysis & Optimization.csv',
-    'Deloitte AB Testing & Business Acumen': '/Users/xiqingsha/Dropbox (ASU)/Xiqing Sha’s files/Home/CIS 412 2024 Spring/Streamlit/Deloitte AB Testing & Business Acumen.csv'
+    'Deloitte General Background & Skills': 'Deloitte General Background & Skills.csv',
+    'Deloitte Problem-Solving & Initiative': 'Deloitte Problem-Solving & Initiative.csv',
+    'Deloitte Teamwork & Communication': 'Deloitte Teamwork & Communication.csv',
+    'Deloitte Deloitte Specific': 'Deloitte Deloitte Specific.csv',
+    'Deloitte Statistics & Probability':'Deloitte Statistics & Probability.csv',
+    'Deloitte Statistics & Probability': 'Deloitte Statistics & Probability.csv',
+    'Deloitte Machine Learning': 'Deloitte Machine Learning.csv',
+    'Deloitte Data Wrangling & Programming': 'Deloitte Data Wrangling & Programming.csv',
+    'Deloitte Scenario-Based Questions': 'Deloitte Scenario-Based Questions.csv',
+    'Deloitte Deep Learning & Natural Language': 'Deloitte Deep Learning & Natural Language.csv',
+    'Deloitte Big Data & Cloud Computing': 'Deloitte Big Data & Cloud Computing.csv',
+    'Deloitte Time Series Analysis & Optimization': 'Deloitte Time Series Analysis & Optimization.csv',
+    'Deloitte AB Testing & Business Acumen': 'Deloitte AB Testing & Business Acumen.csv'
 }
 
 
