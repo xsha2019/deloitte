@@ -10,10 +10,10 @@ import random
 
 # Define the path to the CSV files (adapt these paths according to your actual file locations)
 file_paths = {
-    'Amazon Behavioral Questions': 'deloitte/Amazon_Behavioral_Questions.csv',
-    'Amazon Technical Questions SQL': 'deloitte/Amazon_Technical_Questions_SQL.csv',
-    'Data Structure and Statistics': 'deloitte/Data_structure_and_statistics.csv',
-    'Data Science': 'deloitte/Data_Science.csv'
+    'Amazon Behavioral Questions': 'Amazon_Behavioral_Questions.csv',
+    'Amazon Technical Questions SQL': 'Amazon_Technical_Questions_SQL.csv',
+    'Data Structure and Statistics': 'Data_structure_and_statistics.csv',
+    'Data Science': 'Data_Science.csv'
 }
 
 
