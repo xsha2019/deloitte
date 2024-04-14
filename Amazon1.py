@@ -10,10 +10,10 @@ import random
 
 # Define the path to the CSV files (adapt these paths according to your actual file locations)
 file_paths = {
-    'Amazon Behavioral Questions': '/Users/xiqingsha/Dropbox (ASU)/Xiqing Sha’s files/Home/CIS 412 2024 Spring/Streamlit/Amazon_Behavioral_Questions.csv',
-    'Amazon Technical Questions SQL': '/Users/xiqingsha/Dropbox (ASU)/Xiqing Sha’s files/Home/CIS 412 2024 Spring/Streamlit/Amazon_Technical_Questions_SQL.csv',
-    'Data Structure and Statistics': '/Users/xiqingsha/Dropbox (ASU)/Xiqing Sha’s files/Home/CIS 412 2024 Spring/Streamlit/Data_structure_and_statistics.csv',
-    'Data Science': '/Users/xiqingsha/Dropbox (ASU)/Xiqing Sha’s files/Home/CIS 412 2024 Spring/Streamlit/Data_Science.csv'
+    'Amazon Behavioral Questions': 'main/Amazon_Behavioral_Questions.csv',
+    'Amazon Technical Questions SQL': 'main/Amazon_Technical_Questions_SQL.csv',
+    'Data Structure and Statistics': 'main/Data_structure_and_statistics.csv',
+    'Data Science': 'main/Data_Science.csv'
 }
 
 
