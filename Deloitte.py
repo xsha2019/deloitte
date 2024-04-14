@@ -33,7 +33,7 @@ file_paths = {
 
 
 # Title of the app
-st.title('Deloitte Data Scientists Interview Questions Selector')
+st.title('Deloitte Data Scientist Interview Questions Selector')
 
 # Allow the user to select a category
 category = st.selectbox('Choose a category:', list(file_paths.keys()))
