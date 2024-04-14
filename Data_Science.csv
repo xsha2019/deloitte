@@ -1,0 +1,37 @@
+Questions
+Differentiate between supervised and unsupervised learning.
+What are the types of selection bias?
+Tell us something about AWS.
+Was there any time when you had to deal with ambiguity?
+What is a confusion matrix?
+What is a true positive rate and a false-positive rate?
+What is dimensionality reduction?
+How do you find the RMSE and MSE linear regression models?
+How would you improve a classification model that suffers from low precision?
+"We have two models, one with 85% accuracy, one 82%. Which one do you pick? (solution)"
+"When you have time series data by month, and it has large data records, how will you find significant differences between this month and previous month?"
+How do you inspect missing data and when are they important?
+"Assume you have a file containing data in the form of data = [{""one"":a1, ""two"":b1,...},{""one"":a2, ""two"":b2,...},{""one"":a3, ""two"":b3,...},...] How could you split this data into 30% test and 70% train data?"
+How do you interpret logistic regression?
+What is pruning?
+What is L1 vs L2 regularization?
+What is the difference between bagging and boosting?
+Explain in detail how a 1D CNN works.
+Describe a case where you have solved an ambiguous business problem using machine learning.
+"Having a categorical variable with thousands of distinct values, how would you encode it?"
+How do you manage an unbalanced data set?
+What is lstm? Why use lstm? How was lstm used in your experience?
+What did you use to remove multicollinearity? Explain what values of VIF you used.
+Explain different time series analysis models. What are some time series models other than Arima?
+How does a neural network with one layer and one input and output compare to a logistic regression?
+What is the difference between XGboost and random forest?
+What is variance in a model?
+Is a decision tree model best for predicting if a borrower will pay back a personal loan? How would you evaluate performance of the model?
+"What would you do if 20% of the 100,000 sold listings are missing square footage data. You want to predict price."
+How would you design the YouTube video recommendation engine?
+What is cross-validation?
+How do you interpret OLS regression results?
+What is the difference between linear regression and a t-test?
+What is gradient descent?
+What are the assumptions of linear regression?
+How do you detect and handle correlation between variables in linear regression?
