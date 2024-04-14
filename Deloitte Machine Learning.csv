@@ -1,0 +1,11 @@
+Questions
+Differentiate between supervised and unsupervised learning algorithms.
+"Explain common classification algorithms (e.g., Logistic Regression, Decision Trees, Random Forests)."
+"Discuss how you would evaluate the performance of a classification model. (e.g., Accuracy, Precision, Recall, F1-Score)"
+"Explain common regression algorithms (e.g., Linear Regression, Support Vector Regression)."
+Discuss the concept of overfitting and underfitting in machine learning models. 
+"Describe different techniques for model selection and regularization (e.g., Cross-Validation, L1/L2 Regularization)."
+"Briefly explain the concept of ensemble learning methods (e.g., Random Forests, Gradient Boosting)."
+Discuss the importance of feature engineering in machine learning projects.
+How do you handle imbalanced class distributions in classification problems? 
+Explain the concept of dimensionality reduction and techniques like PCA.

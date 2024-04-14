@@ -1,0 +1,11 @@
+Questions
+"Explain the basic architecture of a neural network (e.g., input layer, hidden layers, output layer)."
+Discuss the concept of backpropagation in training neural networks.
+"What are some common applications of deep learning (e.g., computer vision, natural language processing)?"
+"Describe different types of neural network architectures (e.g., Convolutional Neural Networks, Recurrent Neural Networks). "
+"Discuss challenges associated with training deep learning models (e.g., vanishing gradients, overfitting)."
+Explain how you would pre-process text data for natural language processing tasks.
+Describe common techniques for sentiment analysis in text data.
+Briefly explain the concept of word embeddings and their applications.
+Discuss the importance of data augmentation techniques in deep learning.
+"How do you handle ethical considerations surrounding bias in machine learning models, especially NLP models?"
