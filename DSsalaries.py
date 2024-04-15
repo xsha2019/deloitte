@@ -25,8 +25,7 @@ def load_data():
 
 data = load_data()
 
-# Title of the app
-st.title('Data Science Salary Exploration')
+
 
 # Sidebar for user inputs and settings
 st.sidebar.title("Settings")
